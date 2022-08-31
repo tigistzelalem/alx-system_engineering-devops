@@ -1,1 +1,1 @@
-changing directory
+Task 0. Where am i
