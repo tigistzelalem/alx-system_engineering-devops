@@ -1,2 +1,11 @@
 #!/bin/bash
-Hello, World
+echo "Hello, World" >> 0-hello_world
+echo echo Hello, World >> 0-hello_world
+
+q
+drfderg
+
+
+echo echo Hello, World
+echo "Hello, World"
+echo "Hello, World"
