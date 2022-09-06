@@ -1,0 +1,10 @@
+#!/bin/bash
+export BEST="School" >> 7-create_global_variable
+
+echo export BEST=School
+export BEST="School" >> 7-create_global_variable
+
+echo export BEST=School >> 7-create_global_variable
+echo export BEST=School
+export BEST="School"
+export BEST="School"
